@@ -1,0 +1,1 @@
+counter_bad_grades = 0
